@@ -10,6 +10,14 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
 
@@ -61,3 +69,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+
+proj for creating shaders/.idea/.idea.proj for creating shaders/.idea/
+
+proj for creating shaders/.idea/
+proj for creating shaders/Assets/ExampleAssets/
+proj for creating shaders/Assets/Presets/
+proj for creating shaders/Assets/TutorialInfo/
