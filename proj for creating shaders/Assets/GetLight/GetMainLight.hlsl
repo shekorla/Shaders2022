@@ -16,7 +16,7 @@ void GetMainLightData_float(out half3 direction, out half3 color, out half dista
     
         // GetMainLight defined in Packages/com.unity.render-pipelines.universal/ShaderLibrary/Lighting.hlsl
         Light mainLight = GetMainLight();
-        direction = mainLight.direction;
+        direction = -mainLight.direction;
         color = mainLight.color;
         distanceAttenuation = mainLight.distanceAttenuation;
         shadowAttenuation = mainLight.shadowAttenuation;
