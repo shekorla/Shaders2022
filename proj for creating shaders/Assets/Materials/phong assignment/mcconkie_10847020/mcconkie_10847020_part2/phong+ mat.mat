@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: MatPhongNotes
-  m_Shader: {fileID: -6465566751694194690, guid: 6759f6d8bcedc094595b3f6188c8eafe, type: 3}
+  m_Name: phong+ mat
+  m_Shader: {fileID: -6465566751694194690, guid: 614ae1d61be0d6845aff92b696f7b705, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -32,7 +32,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_215738ed6c2e499083abd1c9540ee6a1: 111
+    - Vector1_47907090661f4438b82b1da331fab2c9: 30
     m_Colors:
-    - Color_fc6681e5d15f485186cce7d90cf0c30d: {r: 0.013794942, g: 0.09538215, b: 0.5849056, a: 0}
+    - Color_396025dbcefd4195b73c03359d215e6e: {r: 0.8679245, g: 0.39711642, b: 0.39711642, a: 0}
   m_BuildTextureStacks: []
