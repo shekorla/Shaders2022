@@ -19,6 +19,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_e7231d1a9b8b44f0a2ad80c0c3fa0617:
+        m_Texture: {fileID: 2800000, guid: e56d62e2e3277fa41a0eae3d95037626, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - unity_Lightmaps:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -33,7 +37,11 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_1fd9bb4924a04aca9156f59082d964d4: 1
-    - Vector1_52f1df5da483445da63616de0ec2cb4e: 48.96
+    - Vector1_52f1df5da483445da63616de0ec2cb4e: 2
+    - Vector1_8d5112f22e064c55a07f472ce8966198: 0.5
+    - Vector1_97de368b5d3f479293dd6cc3037debee: 0.28
+    - Vector1_c1b98c7472ce4e3493448f22432f7ef3: 50
     m_Colors:
-    - Color_ecd7f8f7564d48229a392c675f78ba57: {r: 0.14827341, g: 0.6260724, b: 0.6415094, a: 1}
+    - Color_2dfa8110767b4d179798f7fa9ac517a0: {r: 0, g: 0, b: 0.84705883, a: 1}
+    - Color_ecd7f8f7564d48229a392c675f78ba57: {r: 1.7530778e-10, g: 1.1687186e-10, b: 6.975789e-10, a: 1}
   m_BuildTextureStacks: []
