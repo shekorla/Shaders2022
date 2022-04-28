@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: shad part mat
+  m_Name: static particles
   m_Shader: {fileID: -6465566751694194690, guid: 000fdb9416b5fa549adfb406a5387bb5, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
@@ -40,11 +40,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Boolean_3d83e35998da4ad98eda859432a7deaf: 1
+    - Boolean_3d83e35998da4ad98eda859432a7deaf: 0
     - Vector1_0a169c31e41c4328be5c29eb1a4f8a94: 0.5
     - Vector1_3d60a1502bd643f9bc3c53b625b5cab0: 100
     - Vector1_46c5f5fc841b45ee9b8943114607c6a8: 64
-    - Vector1_5b8caa9960bc4e87872c6ea2103e5e68: 2
     m_Colors:
     - Color_0426e997d7664325add1bb785363279c: {r: 0.07778571, g: 0.1690993, b: 0.7169812, a: 1}
   m_BuildTextureStacks: []
